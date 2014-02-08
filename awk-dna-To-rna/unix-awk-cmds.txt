@@ -1,0 +1,4 @@
+# Commands on unix system
+
+#For terminal
+$ awk < sample-dna.txt -f dna-rna.awk

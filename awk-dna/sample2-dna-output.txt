@@ -1,0 +1,20 @@
+-------START-------
+>Influenza
+TGGATATGAT
+#Replicated Sequence
+ACCTATACTA
+
+
+>Dengue
+AGTTACTCCGAAA
+#Replicated Sequence
+TCAATGAGGCTTT
+
+
+>Varicella
+CTTTGGATA
+#Replicated Sequence
+GAAACCTAT
+
+
+--------END--------

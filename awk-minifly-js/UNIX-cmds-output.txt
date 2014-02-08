@@ -1,0 +1,8 @@
+UNIX command:
+$ awk -f minifyComments.awk jquery.accordion.js > jquery.accordionAWK.js
+
+
+VERSION 1:
+INPUT FILE: jquery.accordion.js file size is 8,198 KB
+AFTER THE COMMAND
+OUTOUT FILE: jquery.accordionAWK.js file size is 5,916 KB

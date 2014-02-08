@@ -1,0 +1,10 @@
+FirstName	LastName	Age		Sex		Salary
+John		Stroker		30		M		40,000
+Kelly		Ford		37		F		60,000
+Harry		Brown		25		M		70,000
+Peter		White		27		M		80,000
+Brock		Green		31		M		50,000
+Dany		McDonald	27		F		50,000
+Randy		Smith		37		F		40,000
+Sean		Dylan		47		M		90,000
+Bob			Kiev		54		M		120,000

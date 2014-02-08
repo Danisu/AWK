@@ -1,0 +1,7 @@
+//Processing fasta files with AWK
+$ awk < sample-dna.fasta '$0 !~ /^>/'
+or
+$ awk < sample-dna.fasta '$0 !~ /^>/ { print $0}'
+
+//Processing fasta files with grep
+grep -v '^>' <filename>

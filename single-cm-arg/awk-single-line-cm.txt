@@ -1,0 +1,57 @@
+AWK List of single line commands
+
+//* If you want to print a whole file on the console then use the following command
+
+$ awk '{print;}' <filename>
+
+//* The following command takes a file as an argument and print the content with 
+// line numbers
+$ awk '{print NR ": " $0}' <filename>
+
+// where print is a predefined function that prints a strong on the console
+// NR: Number of the current record (Note: NR is a built-in variable)
+// $0: Entire input record or entire line
+
+// Example: 
+$ awk '{print NR ": " $0}' aFile.txt
+
+//* If you want to print the records with an empty line between them
+//then you can use another built-in variable called RS
+
+// Example:
+$ awk '{print NR ": " $0 RS}' aFile.txt
+
+//* The following command takes a file as an argument and print the number of fields in 
+// current record
+
+// Example:
+$ awk '{print NF ": " $0 RS}' aFile.txt
+
+// NF: built-in variable that gives the number of fields in current record
+// Note: FS (Field separator - another built-in variable) is an empty space by default. 
+// If you set the FS then you can have different number of fields in the current record
+
+//* If you want to print the lines with certain pattern then use the following command
+
+$ awk '/pattern/' <filename>
+or
+$ awk '/pattern/
+> /pattern2/
+> /pattern3' <filename>
+
+$ awk ‘$3 ~/pattern/‘ <filename>	//Match the third field with pattern
+$ awk ‘$3 !~/pattern/‘ <filename>	//Does not match the third field with pattern
+
+
+// *BEGIN and END pattern
+$ awk BEGIN {Actions}
+ 			{Actions}
+	  END{Actions} <filename>
+	  
+// Example
+awk 'BEGIN { print "-----------This is the beginning of X report---------";}
+{print $0;}
+END { print "-------------END OF REPORT------------------";}' cFile.Txt > output.txt;;
+
+
+

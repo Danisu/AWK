@@ -1,0 +1,11 @@
+# Commands on unix system
+
+#For output files
+$ awk < sample-dna.fasta -f pro-DNA-fasta.awk > sample-dna-output.txt
+$ awk < sample2-dna.fasta -f pro-DNA-fasta.awk > sample2-dna-output.txt
+
+#For terminal
+$ awk < sample-dna.fasta -f pro-DNA-fasta.awk
+$ awk < sample2-dna.fasta -f pro-DNA-fasta.awk
+$ awk < sample-dna.txt -f pro-DNA.awk
+$ awk < sample2-dna.txt -f pro-DNA.awk

@@ -1,0 +1,113 @@
+-------START-------
+> sample dna | (This is a typical fasta header.)
+agatggcggcgctgaggggtcttgggggctctaggccggccacctactgg
+#Replicated Sequence
+TCTACCGCCGCGACTCCCCAGAACCCCCGAGATCCGGCCGGTGGATGACC
+
+
+tttgcagcggagacgacgcatggggcctgcgcaataggagtacgctgcct
+#Replicated Sequence
+AAACGTCGCCTCTGCTGCGTACCCCGGACGCGTTATCCTCATGCGACGGA
+
+
+gggaggcgtgactagaagcggaagtagttgtgggcgcctttgcaaccgcc
+#Replicated Sequence
+CCCTCCGCACTGATCTTCGCCTTCATCAACACCCGCGGAAACGTTGGCGG
+
+
+tgggacgccgccgagtggtctgtgcaggttcgcgggtcgctggcgggggt
+#Replicated Sequence
+ACCCTGCGGCGGCTCACCAGACACGTCCAAGCGCCCAGCGACCGCCCCCA
+
+
+cgtgagggagtgcgccgggagcggagatatggagggagatggttcagacc
+#Replicated Sequence
+GCACTCCCTCACGCGGCCCTCGCCTCTATACCTCCCTCTACCAAGTCTGG
+
+
+cagagcctccagatgccggggaggacagcaagtccgagaatggggagaat
+#Replicated Sequence
+GTCTCGGAGGTCTACGGCCCCTCCTGTCGTTCAGGCTCTTACCCCTCTTA
+
+
+gcgcccatctactgcatctgccgcaaaccggacatcaactgcttcatgat
+#Replicated Sequence
+CGCGGGTAGATGACGTAGACGGCGTTTGGCCTGTAGTTGACGAAGTACTA
+
+
+cgggtgtgacaactgcaatgagtggttccatggggactgcatccggatca
+#Replicated Sequence
+GCCCACACTGTTGACGTTACTCACCAAGGTACCCCTGACGTAGGCCTAGT
+
+
+ctgagaagatggccaaggccatccgggagtggtactgtcgggagtgcaga
+#Replicated Sequence
+GACTCTTCTACCGGTTCCGGTAGGCCCTCACCATGACAGCCCTCACGTCT
+
+
+gagaaagaccccaagctagagattcgctatcggcacaagaagtcacggga
+#Replicated Sequence
+CTCTTTCTGGGGTTCGATCTCTAAGCGATAGCCGTGTTCTTCAGTGCCCT
+
+
+gcgggatggcaatgagcgggacagcagtgagccccgggatgagggtggag
+#Replicated Sequence
+CGCCCTACCGTTACTCGCCCTGTCGTCACTCGGGGCCCTACTCCCACCTC
+
+
+ggcgcaagaggcctgtccctgatccagacctgcagcgccgggcagggtca
+#Replicated Sequence
+CCGCGTTCTCCGGACAGGGACTAGGTCTGGACGTCGCGGCCCGTCCCAGT
+
+
+gggacaggggttggggccatgcttgctcggggctctgcttcgccccacaa
+#Replicated Sequence
+CCCTGTCCCCAACCCCGGTACGAACGAGCCCCGAGACGAAGCGGGGTGTT
+
+
+atcctctccgcagcccttggtggccacacccagccagcatcaccagcagc
+#Replicated Sequence
+TAGGAGAGGCGTCGGGAACCACCGGTGTGGGTCGGTCGTAGTGGTCGTCG
+
+
+agcagcagcagatcaaacggtcagcccgcatgtgtggtgagtgtgaggca
+#Replicated Sequence
+TCGTCGTCGTCTAGTTTGCCAGTCGGGCGTACACACCACTCACACTCCGT
+
+
+tgtcggcgcactgaggactgtggtcactgtgatttctgtcgggacatgaa
+#Replicated Sequence
+ACAGCCGCGTGACTCCTGACACCAGTGACACTAAAGACAGCCCTGTACTT
+
+
+gaagttcgggggccccaacaagatccggcagaagtgccggctgcgccagt
+#Replicated Sequence
+CTTCAAGCCCCCGGGGTTGTTCTAGGCCGTCTTCACGGCCGACGCGGTCA
+
+
+gccagctgcgggcccgggaatcgtacaagtacttcccttcctcgctctca
+#Replicated Sequence
+CGGTCGACGCCCGGGCCCTTAGCATGTTCATGAAGGGAAGGAGCGAGAGT
+
+
+ccagtgacgccctcagagtccctgccaaggccccgccggccactgcccac
+#Replicated Sequence
+GGTCACTGCGGGAGTCTCAGGGACGGTTCCGGGGCGGCCGGTGACGGGTG
+
+
+ccaacagcagccacagccatcacagaagttagggcgcatccgtgaagatg
+#Replicated Sequence
+GGTTGTCGTCGGTGTCGGTAGTGTCTTCAATCCCGCGTAGGCACTTCTAC
+
+
+agggggcagtggcgtcatcaacagtcaaggagcctcctgaggctacagcc
+#Replicated Sequence
+TCCCCCGTCACCGCAGTAGTTGTCAGTTCCTCGGAGGACTCCGATGTCGG
+
+
+acacctgagccactctcagatgaggaccta
+#Replicated Sequence
+TGTGGACTCGGTGAGAGTCTACTCCTGGAT
+
+
+--------END--------
